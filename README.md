@@ -234,7 +234,19 @@ Let’s craft something extraordinary together.
 ### 💻 Core Development & Engineering
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,express,mongodb,postgres,python,cpp,kotlin,java,flutter,reactnative,git,github,linux,vite,webpack,wordpress,elementor,woocommerce,divi,framer,webflow,wixstudio,shopify" />
+
+  <!-- Supported skillicons -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,express,mongodb,postgres,python,cpp,kotlin,java,flutter,reactnative,git,github,linux,vite,webpack,wordpress" />
+
+  <!-- Custom SVG icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/elementor.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/divi.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/framer.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/webflow.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/wixstudio.svg" width="48" />
+
 </p>
 
 - Full Stack Web & Software Development  
@@ -247,7 +259,14 @@ Let’s craft something extraordinary together.
 ### 🤖 AI, ML & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,onnx" />
+
+  <!-- supported -->
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn" />
+
+  <!-- custom -->
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/onnx.svg" width="48" />
+  <img src="https://skillicons.dev/icons?i=cuda,jupyter,numpy" />
+
 </p>
 
 - AI & ML Engineering  
@@ -260,7 +279,15 @@ Let’s craft something extraordinary together.
 ### 🎮 Games, Graphics & 3D
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,blender,3dsmax,maya,fusion" />
+
+  <!-- supported -->
+  <img src="https://skillicons.dev/icons?i=unity,unreal,blender,godot" />
+
+  <!-- custom -->
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/3dsmax.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/maya.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/fusion360.svg" width="48" />
+
 </p>
 
 - 2D & 3D Game Development  
@@ -272,7 +299,17 @@ Let’s craft something extraordinary together.
 ### 🎨 Design, Motion & Visual Storytelling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,lightroom,aftereffects,premiere,cinema4d,davinci,animate,finalcut" />
+
+  <!-- supported -->
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,blender" />
+
+  <!-- custom -->
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/c4d.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/davinci.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/animate.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/finalcut.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/lightroom.svg" width="48" />
+
 </p>
 
 - UI/UX Design & Prototyping  
@@ -285,13 +322,26 @@ Let’s craft something extraordinary together.
 ### 🎵 Audio, Branding & Strategy
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flstudio,logicpro,abletonlive,protools,studioone,googlean,ahrefs,semrush,googleanalytics,metapixels" />
+
+  <!-- custom audio software -->
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/flstudio.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/logicpro.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/ableton.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/protools.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/studioone.svg" width="48" />
+
+  <!-- branding -->
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/ahrefs.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/semrush.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/googleanalytics.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/metapixels.svg" width="48" />
+
 </p>
 
 - Music Production, Composition & Distribution  
 - Brand Identity & Positioning  
 - Digital & Social Media Marketing  
-- SEO & Content Strategy  
+- SEO & Content Strategy
 
 ---
 
