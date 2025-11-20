@@ -9,12 +9,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=2500&pause=700&center=true&vCenter=true&width=1000&lines=Creator.+Developer.+Visionary.;Full+Stack+Web+%26+Software+Developer;AI+%26+ML+Engineer+%7C+Game+Developer;Multidisciplinary+Artist+%7C+Music+Producer;Turning+ideas+into+extraordinary+realities." alt="Typing SVG" />
-</p>
-
----
-
 <!-- ─────────────────────────────────────────────── -->
 <!-- 🔥 CUSTOM SVG HEADER -->
 <!-- ─────────────────────────────────────────────── -->
