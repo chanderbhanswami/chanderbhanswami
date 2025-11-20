@@ -1,3 +1,14 @@
+<!-- 🔹 Dark / Light Mode Waving Banner -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Chanderbhan%20Swami&fontSize=40&color=0F172A&fontColor=F9FAFB&animation=fadeIn&desc=Creator.%20Developer.%20Visionary.&descAlignY=70&descAlign=50">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Chanderbhan%20Swami&fontSize=40&color=gradient&animation=fadeIn&desc=Creator.%20Developer.%20Visionary.&descAlignY=70&descAlign=50">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Chanderbhan%20Swami&fontSize=40&color=gradient&animation=fadeIn&desc=Creator.%20Developer.%20Visionary.&descAlignY=70&descAlign=50" alt="Chanderbhan Swami - header banner">
+  </picture>
+</p>
+
+---
+
 <!-- ─────────────────────────────────────────────── -->
 <!-- 🔥 CUSTOM SVG HEADER -->
 <!-- ─────────────────────────────────────────────── -->
