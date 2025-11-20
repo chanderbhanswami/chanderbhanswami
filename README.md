@@ -72,6 +72,36 @@
 
 ---
 
+<!-- ─────────────────────────────────────────────── -->
+<!-- 🌐 SOCIAL LINKS WITH ICONS -->
+<!-- ─────────────────────────────────────────────── -->
+<h2 align="center">🌍 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/chanderbhanswami">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/chanderbhan_swami">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" />
+  </a>
+  &nbsp;
+  <a href="mailto:chanderbhanswami29@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/Chanderbhanswa7">
+    <img src="https://skillicons.dev/icons?i=x" width="50" />
+  </a>
+</p>
+
+---
+
+<!-- ─────────────────────────────────────────────── -->
+<!-- 🎨 NEON GRADIENT BORDER WRAPPER -->
+<!-- ─────────────────────────────────────────────── -->
+<div style="border: 2px solid; border-image: linear-gradient(45deg,#00eaff,#8a2be2,#ff00ff) 1; padding: 20px; border-radius: 12px;">
+
 # 🌕 **Hi, I'm Chanderbhan Swami — Creator. Developer. Visionary.**
 
 ### A multi-disciplinary innovator blending **Technology × Art × Storytelling** into powerful, scalable, and meaningful digital experiences.
@@ -195,6 +225,8 @@ If you have a vision — I can build it, design it, bring it to life, and scale 
 📩 **Reach out:**  
 Let’s craft something extraordinary together.
 
+</div>
+
 ---
 
 ## 🧰 Tech Stack & Tools
@@ -259,6 +291,24 @@ Let’s craft something extraordinary together.
 
 ---
 
+# 📦 **Pinned Projects Showcase**
+
+<p align="center">
+  <a href="https://github.com/chanderbhanswami/smart-todo-app-v2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chanderbhanswami&repo=smart-todo-app-v2&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/chanderbhanswami/fly-project-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chanderbhanswami&repo=fly-project-management&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/technotaau/fence-staining-visualizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=technotaau&repo=fence-staining-visualizer&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 # 📊 **GitHub Stats (Animated)**
 
 <p align="center">
@@ -290,3 +340,8 @@ Let’s craft something extraordinary together.
 
 ---
 
+# 🌀 **Animated Wave Footer**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" />
+</p>
