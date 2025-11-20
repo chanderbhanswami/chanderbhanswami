@@ -234,7 +234,7 @@ Let’s craft something extraordinary together.
 ### 💻 Core Development & Engineering
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,cpp,git,github,linux,vite,webpack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,express,mongodb,postgres,python,cpp,kotlin,java,flutter,reactnative,git,github,linux,vite,webpack,wordpress,elementor,woocommerce,divi,framer,webflow,wixstudio,shopify" />
 </p>
 
 - Full Stack Web & Software Development  
@@ -247,7 +247,7 @@ Let’s craft something extraordinary together.
 ### 🤖 AI, ML & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,onnx" />
 </p>
 
 - AI & ML Engineering  
@@ -260,7 +260,7 @@ Let’s craft something extraordinary together.
 ### 🎮 Games, Graphics & 3D
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,blender,3dsmax,maya,fusion" />
 </p>
 
 - 2D & 3D Game Development  
@@ -272,7 +272,7 @@ Let’s craft something extraordinary together.
 ### 🎨 Design, Motion & Visual Storytelling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,premiere" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,lightroom,aftereffects,premiere,cinema4d,davinci,animate,finalcut" />
 </p>
 
 - UI/UX Design & Prototyping  
@@ -283,6 +283,10 @@ Let’s craft something extraordinary together.
 ---
 
 ### 🎵 Audio, Branding & Strategy
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flstudio,logicpro,abletonlive,protools,studioone,googlean,ahrefs,semrush,googleanalytics,metapixels" />
+</p>
 
 - Music Production, Composition & Distribution  
 - Brand Identity & Positioning  
