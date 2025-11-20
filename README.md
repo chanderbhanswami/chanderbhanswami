@@ -240,7 +240,7 @@ Let’s craft something extraordinary together.
 
   <!-- Custom SVG icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="48" />
+  <img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/shopify/shopify-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/elementor.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/divi.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/chatgpt-asset-repo/icons/framer.svg" width="48" />
