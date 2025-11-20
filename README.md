@@ -1,42 +1,50 @@
-<!-- ─────────────────────────────────────────────── -->
-<!-- 🔥 CUSTOM SVG HEADER -->
-<!-- ─────────────────────────────────────────────── -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00C2FF&center=true&vCenter=true&width=1000&lines=Chanderbhan+Swami;Creator.+Developer.+Visionary.;Full+Stack+Developer+%7C+AI+Engineer+%7C+Designer;Turning+Ideas+Into+Extraordinary+Realities" />
-</p>
-
----
-
-<!-- ─────────────────────────────────────────────── -->
-<!-- 🌗 DARK / LIGHT MODE BANNERS -->
-<!-- ─────────────────────────────────────────────── -->
+<!-- 🔹 Dark / Light Mode Waving Banner -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/mJ67Z0s/banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/py1CGQf/banner-light.png">
-    <img alt="Chanderbhan Swami Banner" src="https://i.ibb.co/py1CGQf/banner-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Chanderbhan%20Swami&fontSize=40&color=0F172A&fontColor=F9FAFB&animation=fadeIn&desc=Creator.%20Developer.%20Visionary.&descAlignY=70&descAlign=50">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Chanderbhan%20Swami&fontSize=40&color=gradient&animation=fadeIn&desc=Creator.%20Developer.%20Visionary.&descAlignY=70&descAlign=50">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Chanderbhan%20Swami&fontSize=40&color=gradient&animation=fadeIn&desc=Creator.%20Developer.%20Visionary.&descAlignY=70&descAlign=50" alt="Chanderbhan Swami - header banner">
   </picture>
 </p>
 
----
-
-<!-- ─────────────────────────────────────────────── -->
-<!-- 🔰 PROFILE BADGES -->
-<!-- ─────────────────────────────────────────────── -->
+<!-- 🔹 Custom SVG Header -->
 <p align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=chanderbhanswami&label=Profile+Views&color=blue&style=for-the-badge" />
-  
-  <a href="https://github.com/chanderbhanswami?tab=followers">
-    <img src="https://img.shields.io/github/followers/chanderbhanswami?style=for-the-badge&color=brightgreen" />
-  </a>
+  <svg width="100%" height="160" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+    <title id="title">Chanderbhan Swami - Creator. Developer. Visionary.</title>
+    <desc id="desc">Custom SVG header banner for GitHub profile.</desc>
+    <defs>
+      <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#0f172a"/>
+        <stop offset="50%" stop-color="#1f2937"/>
+        <stop offset="100%" stop-color="#4b5563"/>
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="260" fill="url(#grad)" rx="28" />
+    <text x="50%" y="44%" dominant-baseline="middle" text-anchor="middle" fill="#e5e7eb" font-size="40" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+      Chanderbhan Swami
+    </text>
+    <text x="50%" y="63%" dominant-baseline="middle" text-anchor="middle" fill="#9ca3af" font-size="22" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+      Creator • Developer • Visionary • AI Expert
+    </text>
+  </svg>
+</p>
 
-  <a href="https://github.com/chanderbhanswami">
-    <img src="https://img.shields.io/github/stars/chanderbhanswami?style=for-the-badge&color=yellow" />
-  </a>
+<!-- 🔹 Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=2500&pause=700&center=true&vCenter=true&width=1000&lines=Creator.+Developer.+Visionary.;Full+Stack+Web+%26+Software+Developer;AI+%26+ML+Engineer+%7C+Game+Developer;Multidisciplinary+Artist+%7C+Music+Producer;Turning+ideas+into+extraordinary+realities." alt="Typing SVG" />
+</p>
 
-  <img src="https://img.shields.io/badge/Creator-Developer-blueviolet?style=for-the-badge" />
+<!-- 🔹 Profile Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chanderbhanswami&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/chanderbhanswami?style=for-the-badge&label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/chanderbhanswami?style=for-the-badge&label=TOTAL+STARS" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/Location-Suratgarh%2C%20Rajasthan-blueviolet?style=for-the-badge" alt="Location" />
+</p>
 
+<!-- 🔹 Small animated visual (optional decorative) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ketancho/Epic-GIFs/main/dev-working.gif" alt="Developer at work animation" height="180">
 </p>
 
 ---
@@ -166,58 +174,96 @@ Let’s craft something extraordinary together.
 
 ---
 
-# 🧰 **Tech Stack (With Icons)**
+If you want, I can also:  
+✅ Add profile badges (views, followers, stars, trophies)  
+✅ Add technology stacks with icons  
+✅ Add animations or GitHub stats  
+✅ Add dark/light mode banners  
+✅ Create a custom SVG header  
+Just tell me and I’ll enhance it further.
 
-### 💻 **Programming Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,cs,bash,php,go,rust" />
+---
+
+## 🧰 Tech Stack & Tools
+
+### 💻 Core Development & Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,cpp,git,github,linux,vite,webpack" />
 </p>
 
-### 🌐 **Web Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,nodejs,express,tailwind,bootstrap,webpack,vite" />
+- Full Stack Web & Software Development  
+- System Design & Databases (SQL + NoSQL)  
+- Data Structures & Algorithms  
+- API Design, Auth, Performance Optimization  
+
+---
+
+### 🤖 AI, ML & Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn" />
 </p>
 
-### 🗄️ **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase" />
+- AI & ML Engineering  
+- Computer Vision & Inference Pipelines  
+- Model Training, Optimization, Deployment  
+- Data Science & Experimentation  
+
+---
+
+### 🎮 Games, Graphics & 3D
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
 </p>
 
-### 🤖 **AI & ML**
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+- 2D & 3D Game Development  
+- 3D Modeling, Rigging & Rendering  
+- Real-time Experiences & Prototyping  
+
+---
+
+### 🎨 Design, Motion & Visual Storytelling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,premiere" />
 </p>
 
-### 🎨 **Design & Creative Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=blender,unreal,unity,ps,pr,ae,figma" />
+- UI/UX Design & Prototyping  
+- Graphics & Motion Graphics  
+- 2D/3D Animation & VFX  
+- DI Color Grading & Advanced Color Science  
+
+---
+
+### 🎵 Audio, Branding & Strategy
+
+- Music Production, Composition & Distribution  
+- Brand Identity & Positioning  
+- Digital & Social Media Marketing  
+- SEO & Content Strategy  
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chanderbhanswami&show_icons=true&theme=radical&rank_icon=percentile" alt="Chanderbhan's GitHub Stats" />
 </p>
 
-### ☁️ **DevOps / Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,nginx" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanderbhanswami&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanderbhanswami&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-# 📊 **GitHub Stats (Animated)**
+## 🌀 Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanderbhanswami&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanderbhanswami&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chanderbhanswami&theme=radical" alt="GitHub Profile Summary" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chanderbhanswami&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-# 🪄 **Fun Animated Section**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
-</p>
-
----
-
