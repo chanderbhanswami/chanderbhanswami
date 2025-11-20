@@ -9,26 +9,8 @@
 
 ---
 
-<!-- 🔹 Custom SVG Header -->
 <p align="center">
-  <svg width="100%" height="160" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-    <title id="title">Chanderbhan Swami - Creator. Developer. Visionary.</title>
-    <desc id="desc">Custom SVG header banner for GitHub profile.</desc>
-    <defs>
-      <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#0f172a"/>
-        <stop offset="50%" stop-color="#1f2937"/>
-        <stop offset="100%" stop-color="#4b5563"/>
-      </linearGradient>
-    </defs>
-    <rect width="1200" height="260" fill="url(#grad)" rx="28" />
-    <text x="50%" y="44%" dominant-baseline="middle" text-anchor="middle" fill="#e5e7eb" font-size="40" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
-      Chanderbhan Swami
-    </text>
-    <text x="50%" y="63%" dominant-baseline="middle" text-anchor="middle" fill="#9ca3af" font-size="22" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
-      Creator • Developer • Visionary • AI Expert
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=2500&pause=700&center=true&vCenter=true&width=1000&lines=Creator.+Developer.+Visionary.;Full+Stack+Web+%26+Software+Developer;AI+%26+ML+Engineer+%7C+Game+Developer;Multidisciplinary+Artist+%7C+Music+Producer;Turning+ideas+into+extraordinary+realities." alt="Typing SVG" />
 </p>
 
 ---
@@ -37,7 +19,7 @@
 <!-- 🔥 CUSTOM SVG HEADER -->
 <!-- ─────────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00C2FF&center=true&vCenter=true&width=1000&lines=Creator.+Developer.+Visionary.;Full+Stack+Developer+%7C+AI+Engineer+%7C+Designer;Turning+Ideas+Into+Extraordinary+Realities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00C2FF&center=true&vCenter=true&width=1000&lines=Creator.+Developer.+Visionary.Designer;Full+Stack+Web+%26+Software+Developer;AI+%26+ML+Engineer+%7C+Game+Developer;Multidisciplinary+Artist+%7C+Music+Producer;Turning+Ideas+Into+Extraordinary+Realities" />
 </p>
 
 ---
@@ -72,6 +54,13 @@
 
   <img src="https://img.shields.io/badge/Creator-Developer-blueviolet?style=for-the-badge" />
 
+  <img src="https://img.shields.io/badge/Location-Suratgarh%2C%20Rajasthan-blueviolet?style=for-the-badge" alt="Location" />
+
+</p>
+
+<!-- 🔹 Small animated visual (optional decorative) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ketancho/Epic-GIFs/main/dev-working.gif" alt="Developer at work animation" height="180">
 </p>
 
 ---
@@ -201,37 +190,65 @@ Let’s craft something extraordinary together.
 
 ---
 
-# 🧰 **Tech Stack (With Icons)**
+## 🧰 Tech Stack & Tools
 
-### 💻 **Programming Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,cs,bash,php,go,rust" />
+### 💻 Core Development & Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,cpp,git,github,linux,vite,webpack" />
 </p>
 
-### 🌐 **Web Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,nodejs,express,tailwind,bootstrap,webpack,vite" />
+- Full Stack Web & Software Development  
+- System Design & Databases (SQL + NoSQL)  
+- Data Structures & Algorithms  
+- API Design, Auth, Performance Optimization  
+
+---
+
+### 🤖 AI, ML & Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn" />
 </p>
 
-### 🗄️ **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase" />
+- AI & ML Engineering  
+- Computer Vision & Inference Pipelines  
+- Model Training, Optimization, Deployment  
+- Data Science & Experimentation  
+
+---
+
+### 🎮 Games, Graphics & 3D
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
 </p>
 
-### 🤖 **AI & ML**
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+- 2D & 3D Game Development  
+- 3D Modeling, Rigging & Rendering  
+- Real-time Experiences & Prototyping  
+
+---
+
+### 🎨 Design, Motion & Visual Storytelling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,premiere" />
 </p>
 
-### 🎨 **Design & Creative Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=blender,unreal,unity,ps,pr,ae,figma" />
-</p>
+- UI/UX Design & Prototyping  
+- Graphics & Motion Graphics  
+- 2D/3D Animation & VFX  
+- DI Color Grading & Advanced Color Science  
 
-### ☁️ **DevOps / Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,nginx" />
-</p>
+---
+
+### 🎵 Audio, Branding & Strategy
+
+- Music Production, Composition & Distribution  
+- Brand Identity & Positioning  
+- Digital & Social Media Marketing  
+- SEO & Content Strategy  
 
 ---
 
@@ -246,7 +263,17 @@ Let’s craft something extraordinary together.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chanderbhanswami&theme=react-dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanderbhanswami&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ---
+
+## 🌀 Activity Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chanderbhanswami&theme=radical" alt="GitHub Profile Summary" />
+</p>
 
 # 🪄 **Fun Animated Section**
 
