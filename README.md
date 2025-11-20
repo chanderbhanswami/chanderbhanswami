@@ -9,11 +9,35 @@
 
 ---
 
+<!-- 🔹 Custom SVG Header -->
+<p align="center">
+  <svg width="100%" height="160" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+    <title id="title">Chanderbhan Swami - Creator. Developer. Visionary.</title>
+    <desc id="desc">Custom SVG header banner for GitHub profile.</desc>
+    <defs>
+      <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#0f172a"/>
+        <stop offset="50%" stop-color="#1f2937"/>
+        <stop offset="100%" stop-color="#4b5563"/>
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="260" fill="url(#grad)" rx="28" />
+    <text x="50%" y="44%" dominant-baseline="middle" text-anchor="middle" fill="#e5e7eb" font-size="40" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+      Chanderbhan Swami
+    </text>
+    <text x="50%" y="63%" dominant-baseline="middle" text-anchor="middle" fill="#9ca3af" font-size="22" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+      Creator • Developer • Visionary • AI Expert
+    </text>
+  </svg>
+</p>
+
+---
+
 <!-- ─────────────────────────────────────────────── -->
 <!-- 🔥 CUSTOM SVG HEADER -->
 <!-- ─────────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00C2FF&center=true&vCenter=true&width=1000&lines=Chanderbhan+Swami;Creator.+Developer.+Visionary.;Full+Stack+Developer+%7C+AI+Engineer+%7C+Designer;Turning+Ideas+Into+Extraordinary+Realities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00C2FF&center=true&vCenter=true&width=1000&lines=Creator.+Developer.+Visionary.;Full+Stack+Developer+%7C+AI+Engineer+%7C+Designer;Turning+Ideas+Into+Extraordinary+Realities" />
 </p>
 
 ---
